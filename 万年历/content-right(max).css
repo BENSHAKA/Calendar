@@ -1,0 +1,64 @@
+#cal-right
+{
+	overflow: hidden;
+	padding: 10px;
+	color: white;
+}
+
+#nowtime
+{
+	height: 25px;
+	color: white;
+	font-size: 13px;
+	font-family: '楷体';
+	line-height: 25px;
+	margin-bottom: 10px;
+	margin-top: 5px;
+}
+#nowtime .span1
+{
+	font-size: 15px;
+}
+#date
+{
+	height: 20px;
+	color: white;
+	font-size: 13px;
+	font-family: '黑体';
+	line-height: 20px;
+}
+#date div
+{
+	float: left;
+	font-size: 14px;
+}
+#date #date-week
+{
+	font-family: '微软雅黑';
+	font-weight: 600;
+	margin-left:14px;
+}
+#day
+{
+	width: 85px;
+	height: 85px;
+	line-height: 85px;
+	text-align: center;
+	font-family: '黑体';
+	font-weight: 500;
+	background: #1F9237;
+	font-size:72px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+}
+#L-date,#L-year
+{
+	text-align: center;
+	font-size: 15px;
+	font-family: '楷体';
+	margin-top: 15px;
+	
+}
+
+

@@ -1,0 +1,110 @@
+#cal-right
+{
+	overflow: hidden;
+	padding: 10px;
+	padding-right: 0;
+	color: white;
+	position: relative;
+	height: 55px;
+	background: #51AF59;
+	position: absolute;
+	top:0;
+	width: 270px;
+}
+
+#nowtime
+{
+	height: 25px;
+	color: white;
+	font-size: 10px;
+	font-family: '楷体';
+	margin-left:215px;
+
+	
+}
+#nowtime .span1
+{
+	font-size: 13px;
+}
+#date
+{
+	height: 13px;
+	color: white;
+	font-family: '楷体';
+	line-height: 13px;
+	margin-left: 68px;
+	margin-top: -22px;
+}
+#date div
+{
+	float: left;
+	font-size: 13px;
+	position: absolute;
+	left: 70px;
+	top: 15px;
+}
+#date #date-week
+{
+	position: absolute;
+	left: 140px;
+	top: 15px;
+	font-weight: 600;
+	
+	
+}
+#day
+{
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	font-family: '黑体';
+	font-weight: 500;
+	background: #1F9237;
+	font-size:38px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	position: absolute;
+	top: -6px;
+}
+#L-date,#L-year
+{
+	text-align: center;
+	font-size: 13px;
+	font-family: '楷体';
+	position: absolute;
+
+	
+}
+#L-date
+{
+	top:40px;
+	left:68px;
+}
+#L-year
+{
+	top: 54px;
+	left: 68px;
+}
+#img
+{
+	width: 34px;
+	height: 34px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 35px;
+	border-radius:17px;
+	overflow: hidden;
+	position: absolute;
+	top:5px;
+	left: 235px;
+}
+#img img
+{
+	width: 34px;
+	height: 34px;
+	display: block;
+}
+
+
